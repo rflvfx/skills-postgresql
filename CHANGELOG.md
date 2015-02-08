@@ -36,3 +36,4 @@
 - 2026-10-26: Improve jsonb indexing coverage
 - 2015-02-22: Review content
 - 2015-02-05: Minor update
+- 2015-02-08: Small fix
