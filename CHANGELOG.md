@@ -34,3 +34,4 @@
 - 2026-10-14: Update jsonb indexing reference
 - 2026-01-13: Improve listen notify coverage
 - 2026-10-26: Improve jsonb indexing coverage
+- 2015-02-22: Review content
