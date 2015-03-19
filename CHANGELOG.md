@@ -60,3 +60,4 @@
 - 2015-09-08: Improve docs
 - 2015-05-21: Clarify section
 - 2015-04-16: Update notes
+- 2015-03-19: Refine text
