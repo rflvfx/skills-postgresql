@@ -63,3 +63,4 @@
 - 2015-03-19: Refine text
 - 2015-06-24: Clarify section
 - 2015-09-16: Expand section
+- 2015-04-18: Update guide
