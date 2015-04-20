@@ -66,3 +66,4 @@
 - 2015-04-18: Update guide
 - 2015-04-19: Fix example
 - 2015-07-11: Review content
+- 2015-04-20: Polish docs
