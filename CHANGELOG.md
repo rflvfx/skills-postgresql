@@ -58,3 +58,4 @@
 - 2015-07-08: Clarify section
 - 2015-12-15: Clarify section
 - 2015-09-08: Improve docs
+- 2015-05-21: Clarify section
