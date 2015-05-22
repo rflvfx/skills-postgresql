@@ -69,3 +69,4 @@
 - 2015-04-20: Polish docs
 - 2015-04-06: Small fix
 - 2015-12-25: Improve docs
+- 2015-05-22: Minor update
