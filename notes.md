@@ -6,3 +6,4 @@
 - 2015-07-14: Update notes
 - 2015-10-03: Add remark
 - 2015-08-21: Update guide
+- 2015-06-08: Small fix
