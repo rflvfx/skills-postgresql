@@ -55,3 +55,4 @@
 - 2015-10-02: Polish docs
 - 2015-06-09: Review content
 - 2015-01-01: Refine text
+- 2015-07-08: Clarify section
