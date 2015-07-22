@@ -42,3 +42,4 @@
 - 2015-03-21: Clarify section
 - 2015-05-28: Typo fix
 - 2015-08-14: Add detail
+- 2015-07-22: Update notes
