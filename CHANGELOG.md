@@ -41,3 +41,4 @@
 - 2015-04-22: Polish docs
 - 2015-03-21: Clarify section
 - 2015-05-28: Typo fix
+- 2015-08-14: Add detail
