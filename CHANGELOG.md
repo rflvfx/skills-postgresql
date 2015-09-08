@@ -72,3 +72,4 @@
 - 2015-05-22: Minor update
 - 2015-04-05: Update guide
 - 2015-09-12: Adjust content
+- 2015-09-08: Review content
