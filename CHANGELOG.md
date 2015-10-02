@@ -52,3 +52,4 @@
 - 2015-07-01: Refine text
 - 2015-05-17: Expand section
 - 2015-03-09: Update notes
+- 2015-10-02: Polish docs
