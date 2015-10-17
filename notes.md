@@ -7,3 +7,4 @@
 - 2015-10-03: Add remark
 - 2015-08-21: Update guide
 - 2015-06-08: Small fix
+- 2015-10-17: Minor update
