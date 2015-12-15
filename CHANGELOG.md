@@ -56,3 +56,4 @@
 - 2015-06-09: Review content
 - 2015-01-01: Refine text
 - 2015-07-08: Clarify section
+- 2015-12-15: Clarify section
