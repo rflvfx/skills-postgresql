@@ -97,3 +97,4 @@
 - 2016-09-21: Minor update
 - 2016-09-11: Minor update
 - 2016-03-02: Small fix
+- 2016-02-05: Update guide
