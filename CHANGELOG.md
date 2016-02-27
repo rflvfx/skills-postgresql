@@ -105,3 +105,4 @@
 - 2016-04-05: Fix example
 - 2016-06-17: Add detail
 - 2016-06-21: Improve docs
+- 2016-02-27: Polish docs
