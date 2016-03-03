@@ -99,3 +99,4 @@
 - 2016-03-02: Small fix
 - 2016-02-05: Update guide
 - 2016-09-09: Small fix
+- 2016-03-03: Polish docs
