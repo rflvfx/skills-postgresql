@@ -24,3 +24,4 @@
 - 2016-09-14: Expand section
 - 2016-04-15: Review content
 - 2016-08-15: Update notes
+- 2016-03-03: Improve docs
