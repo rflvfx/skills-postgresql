@@ -101,3 +101,4 @@
 - 2016-09-09: Small fix
 - 2016-03-03: Polish docs
 - 2016-05-06: Add detail
+- 2016-03-19: Improve docs
