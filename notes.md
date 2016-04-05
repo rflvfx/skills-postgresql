@@ -16,3 +16,4 @@
 - 2015-06-24: Refine text
 - 2016-08-10: Refine text
 - 2016-03-24: Improve docs
+- 2016-04-05: Clarify section
