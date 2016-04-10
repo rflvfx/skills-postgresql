@@ -79,3 +79,4 @@
 - 2016-03-24: Add note
 - 2016-06-08: Typo fix
 - 2016-03-12: Expand section
+- 2016-04-10: Polish docs
