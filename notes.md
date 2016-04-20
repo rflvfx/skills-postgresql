@@ -18,3 +18,4 @@
 - 2016-03-24: Improve docs
 - 2016-04-05: Clarify section
 - 2016-07-03: Update guide
+- 2016-04-20: Clarify section
