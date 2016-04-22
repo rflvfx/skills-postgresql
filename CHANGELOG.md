@@ -106,3 +106,4 @@
 - 2016-06-17: Add detail
 - 2016-06-21: Improve docs
 - 2016-02-27: Polish docs
+- 2016-04-22: Clarify section
