@@ -107,3 +107,4 @@
 - 2016-06-21: Improve docs
 - 2016-02-27: Polish docs
 - 2016-04-22: Clarify section
+- 2016-04-27: Adjust content
