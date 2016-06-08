@@ -77,3 +77,4 @@
 - 2015-03-20: Improve docs
 - 2016-01-21: Adjust content
 - 2016-03-24: Add note
+- 2016-06-08: Typo fix
