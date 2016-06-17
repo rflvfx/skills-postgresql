@@ -103,3 +103,4 @@
 - 2016-05-06: Add detail
 - 2016-03-19: Improve docs
 - 2016-04-05: Fix example
+- 2016-06-17: Add detail
