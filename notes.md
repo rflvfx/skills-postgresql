@@ -17,3 +17,4 @@
 - 2016-08-10: Refine text
 - 2016-03-24: Improve docs
 - 2016-04-05: Clarify section
+- 2016-07-03: Update guide
