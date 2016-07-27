@@ -90,3 +90,4 @@
 - 2016-08-12: Update guide
 - 2016-09-19: Fix example
 - 2016-08-09: Improve docs
+- 2016-07-27: Update notes
