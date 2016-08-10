@@ -14,3 +14,4 @@
 - 2015-10-13: Fix example
 - 2015-12-15: Review content
 - 2015-06-24: Refine text
+- 2016-08-10: Refine text
