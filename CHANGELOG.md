@@ -81,3 +81,4 @@
 - 2016-03-12: Expand section
 - 2016-04-10: Polish docs
 - 2016-10-16: Improve docs
+- 2016-08-11: Adjust content
