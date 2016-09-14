@@ -21,3 +21,4 @@
 - 2016-04-20: Clarify section
 - 2016-01-04: Update notes
 - 2016-11-26: Add note
+- 2016-09-14: Expand section
