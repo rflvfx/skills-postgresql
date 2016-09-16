@@ -115,3 +115,4 @@
 - 2016-06-07: Minor update
 - 2016-06-08: Minor update
 - 2016-10-03: Improve docs
+- 2016-09-16: Small fix
