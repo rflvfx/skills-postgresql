@@ -88,3 +88,4 @@
 - 2016-09-19: Adjust content
 - 2016-12-09: Add detail
 - 2016-08-12: Update guide
+- 2016-09-19: Fix example
