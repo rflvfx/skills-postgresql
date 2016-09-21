@@ -94,3 +94,4 @@
 - 2016-10-20: Update guide
 - 2016-09-24: Review content
 - 2016-02-19: Update notes
+- 2016-09-21: Minor update
