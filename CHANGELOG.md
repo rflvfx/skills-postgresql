@@ -109,3 +109,4 @@
 - 2016-04-22: Clarify section
 - 2016-04-27: Adjust content
 - 2016-05-09: Add detail
+- 2016-09-22: Update notes
