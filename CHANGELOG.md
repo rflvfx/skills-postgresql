@@ -80,3 +80,4 @@
 - 2016-06-08: Typo fix
 - 2016-03-12: Expand section
 - 2016-04-10: Polish docs
+- 2016-10-16: Improve docs
