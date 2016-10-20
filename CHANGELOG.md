@@ -91,3 +91,4 @@
 - 2016-09-19: Fix example
 - 2016-08-09: Improve docs
 - 2016-07-27: Update notes
+- 2016-10-20: Update guide
