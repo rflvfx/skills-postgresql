@@ -138,3 +138,4 @@
 - 2017-04-04: Fix example
 - 2017-03-08: Update guide
 - 2017-12-27: Fix example
+- 2017-01-17: Update notes
