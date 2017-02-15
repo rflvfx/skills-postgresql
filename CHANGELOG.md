@@ -155,3 +155,4 @@
 - 2017-11-04: Typo fix
 - 2017-11-23: Polish docs
 - 2017-02-28: Update guide
+- 2017-02-15: Expand section
