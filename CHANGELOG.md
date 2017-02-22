@@ -129,3 +129,4 @@
 - 2017-01-02: Review content
 - 2017-10-08: Add note
 - 2017-12-12: Fix example
+- 2017-02-22: Improve docs
