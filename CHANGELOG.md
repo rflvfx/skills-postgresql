@@ -136,3 +136,4 @@
 - 2017-05-23: Add note
 - 2017-10-18: Add note
 - 2017-04-04: Fix example
+- 2017-03-08: Update guide
