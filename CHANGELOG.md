@@ -159,3 +159,4 @@
 - 2017-01-01: Minor update
 - 2017-08-07: Update notes
 - 2017-08-07: Adjust content
+- 2017-03-23: Typo fix
