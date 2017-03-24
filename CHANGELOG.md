@@ -147,3 +147,4 @@
 - 2017-06-19: Improve docs
 - 2017-09-28: Polish docs
 - 2017-12-27: Improve docs
+- 2017-03-24: Small fix
