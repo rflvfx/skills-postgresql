@@ -116,3 +116,4 @@
 - 2016-06-08: Minor update
 - 2016-10-03: Improve docs
 - 2016-09-16: Small fix
+- 2017-04-20: Refine text
