@@ -31,3 +31,4 @@
 - 2017-10-07: Expand section
 - 2017-04-13: Add remark
 - 2017-01-07: Adjust content
+- 2017-06-14: Typo fix
