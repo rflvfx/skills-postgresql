@@ -144,3 +144,4 @@
 - 2017-09-04: Adjust content
 - 2017-06-21: Polish docs
 - 2017-12-05: Polish docs
+- 2017-06-19: Improve docs
