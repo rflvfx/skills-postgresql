@@ -131,3 +131,4 @@
 - 2017-12-12: Fix example
 - 2017-02-22: Improve docs
 - 2017-08-05: Clarify section
+- 2017-07-18: Update guide
