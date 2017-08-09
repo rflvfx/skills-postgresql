@@ -151,3 +151,4 @@
 - 2017-04-09: Fix example
 - 2017-07-19: Minor update
 - 2017-12-15: Improve docs
+- 2017-08-09: Update notes
