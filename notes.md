@@ -28,3 +28,4 @@
 - 2016-09-02: Adjust content
 - 2017-08-19: Add note
 - 2017-10-16: Clarify section
+- 2017-10-07: Expand section
