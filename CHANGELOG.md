@@ -121,3 +121,4 @@
 - 2017-12-07: Fix example
 - 2017-01-28: Add remark
 - 2017-02-25: Expand section
+- 2017-10-08: Minor update
