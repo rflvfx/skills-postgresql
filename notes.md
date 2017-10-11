@@ -33,3 +33,4 @@
 - 2017-01-07: Adjust content
 - 2017-06-14: Typo fix
 - 2017-03-05: Polish docs
+- 2017-10-11: Update guide
