@@ -134,3 +134,4 @@
 - 2017-07-18: Update guide
 - 2017-08-08: Add remark
 - 2017-05-23: Add note
+- 2017-10-18: Add note
