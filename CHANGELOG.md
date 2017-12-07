@@ -118,3 +118,4 @@
 - 2016-09-16: Small fix
 - 2017-04-20: Refine text
 - 2017-11-13: Polish docs
+- 2017-12-07: Fix example
