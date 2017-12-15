@@ -150,3 +150,4 @@
 - 2017-03-24: Small fix
 - 2017-04-09: Fix example
 - 2017-07-19: Minor update
+- 2017-12-15: Improve docs
