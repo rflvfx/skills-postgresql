@@ -140,3 +140,4 @@
 - 2017-12-27: Fix example
 - 2017-01-17: Update notes
 - 2017-03-14: Add detail
+- 2017-12-19: Update notes
