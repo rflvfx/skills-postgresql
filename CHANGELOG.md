@@ -187,3 +187,4 @@
 - 2018-12-16: Refine text
 - 2018-11-08: Expand section
 - 2018-03-18: Update notes
+- 2018-01-17: Minor update
