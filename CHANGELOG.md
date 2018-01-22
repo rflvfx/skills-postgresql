@@ -175,3 +175,4 @@
 - 2018-07-01: Expand section
 - 2018-03-19: Improve docs
 - 2018-04-20: Improve docs
+- 2018-01-22: Review content
