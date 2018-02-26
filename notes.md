@@ -41,3 +41,4 @@
 - 2018-08-26: Clarify section
 - 2018-04-27: Fix example
 - 2018-06-22: Add detail
+- 2018-02-26: Expand section
