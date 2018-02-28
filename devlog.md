@@ -1,3 +1,4 @@
 - 2016-02-25 - Small fixes
 - 2017-04-07 - Review material
 - 2017-11-21 - Update notes
+- 2018-02-28 - Improve documentation
