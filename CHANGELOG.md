@@ -174,3 +174,4 @@
 - 2018-07-11: Minor update
 - 2018-07-01: Expand section
 - 2018-03-19: Improve docs
+- 2018-04-20: Improve docs
