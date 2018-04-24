@@ -198,3 +198,4 @@
 - 2018-01-22: Minor update
 - 2018-11-28: Add detail
 - 2018-01-21: Add note
+- 2018-04-24: Fix example
