@@ -39,3 +39,4 @@
 - 2018-12-14: Improve docs
 - 2018-04-15: Adjust content
 - 2018-08-26: Clarify section
+- 2018-04-27: Fix example
