@@ -178,3 +178,4 @@
 - 2018-01-22: Review content
 - 2018-03-06: Adjust content
 - 2018-10-01: Fix example
+- 2018-06-06: Polish docs
