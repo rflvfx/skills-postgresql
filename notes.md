@@ -40,3 +40,4 @@
 - 2018-04-15: Adjust content
 - 2018-08-26: Clarify section
 - 2018-04-27: Fix example
+- 2018-06-22: Add detail
