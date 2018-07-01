@@ -172,3 +172,4 @@
 - 2018-11-18: Minor update
 - 2018-08-20: Clarify section
 - 2018-07-11: Minor update
+- 2018-07-01: Expand section
