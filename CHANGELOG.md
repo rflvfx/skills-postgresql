@@ -181,3 +181,4 @@
 - 2018-06-06: Polish docs
 - 2018-11-19: Expand section
 - 2018-10-20: Add note
+- 2018-07-02: Update guide
