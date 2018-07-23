@@ -165,3 +165,4 @@
 - 2018-11-15: Fix example
 - 2018-10-01: Minor update
 - 2018-02-15: Add note
+- 2018-07-23: Improve docs
