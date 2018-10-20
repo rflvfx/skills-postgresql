@@ -180,3 +180,4 @@
 - 2018-10-01: Fix example
 - 2018-06-06: Polish docs
 - 2018-11-19: Expand section
+- 2018-10-20: Add note
