@@ -8,3 +8,4 @@
 - 2017-06-22: Expand array columns docs
 - 2017-07-21: Review full text search section
 - 2018-02-08: Refine connection pooling guide
+- 2018-11-06: Add jsonb indexing examples
