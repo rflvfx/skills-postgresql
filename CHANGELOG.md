@@ -201,3 +201,4 @@
 - 2018-04-24: Fix example
 - 2018-07-21: Improve docs
 - 2018-05-22: Minor update
+- 2018-12-01: Minor update
