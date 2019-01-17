@@ -204,3 +204,4 @@
 - 2018-12-01: Minor update
 - 2018-01-20: Update notes
 - 2018-12-21: Add remark
+- 2019-01-17: Refine text
