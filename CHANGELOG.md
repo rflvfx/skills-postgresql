@@ -214,3 +214,4 @@
 - 2019-06-23: Update guide
 - 2019-09-11: Typo fix
 - 2019-08-12: Adjust content
+- 2019-01-21: Review content
