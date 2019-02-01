@@ -9,3 +9,4 @@
 - 2017-07-21: Review full text search section
 - 2018-02-08: Refine connection pooling guide
 - 2018-11-06: Add jsonb indexing examples
+- 2019-02-01: Improve cte patterns coverage
