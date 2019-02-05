@@ -233,3 +233,4 @@
 - 2019-07-23: Add remark
 - 2019-08-06: Expand section
 - 2019-04-23: Add note
+- 2019-02-05: Polish docs
