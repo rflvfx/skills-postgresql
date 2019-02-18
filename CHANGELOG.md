@@ -225,3 +225,4 @@
 - 2019-07-05: Review content
 - 2019-08-02: Fix example
 - 2019-03-22: Add note
+- 2019-02-18: Small fix
