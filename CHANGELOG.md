@@ -239,3 +239,4 @@
 - 2019-04-22: Clarify section
 - 2019-09-17: Review content
 - 2019-05-10: Improve docs
+- 2019-02-18: Add note
