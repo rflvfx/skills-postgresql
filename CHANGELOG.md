@@ -243,3 +243,4 @@
 - 2019-05-18: Clarify section
 - 2019-05-10: Typo fix
 - 2019-01-19: Clarify section
+- 2019-03-06: Fix example
