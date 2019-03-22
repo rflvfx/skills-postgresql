@@ -210,3 +210,4 @@
 - 2019-04-01: Update notes
 - 2019-12-09: Add note
 - 2019-04-18: Clarify section
+- 2019-03-22: Update guide
