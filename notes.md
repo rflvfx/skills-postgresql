@@ -55,3 +55,4 @@
 - 2019-05-08: Fix example
 - 2019-01-16: Add note
 - 2019-11-06: Adjust content
+- 2019-03-23: Update guide
