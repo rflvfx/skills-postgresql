@@ -207,3 +207,4 @@
 - 2019-01-17: Refine text
 - 2019-09-10: Refine text
 - 2019-05-07: Update guide
+- 2019-04-01: Update notes
