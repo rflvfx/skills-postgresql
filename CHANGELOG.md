@@ -232,3 +232,4 @@
 - 2019-06-07: Update guide
 - 2019-07-23: Add remark
 - 2019-08-06: Expand section
+- 2019-04-23: Add note
