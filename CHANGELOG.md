@@ -241,3 +241,4 @@
 - 2019-05-10: Improve docs
 - 2019-02-18: Add note
 - 2019-05-18: Clarify section
+- 2019-05-10: Typo fix
