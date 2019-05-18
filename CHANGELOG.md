@@ -218,3 +218,4 @@
 - 2019-03-08: Adjust content
 - 2019-01-25: Polish docs
 - 2019-09-07: Expand section
+- 2019-05-18: Update guide
