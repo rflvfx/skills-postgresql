@@ -221,3 +221,4 @@
 - 2019-05-18: Update guide
 - 2019-10-07: Small fix
 - 2019-09-15: Update notes
+- 2019-05-19: Expand section
