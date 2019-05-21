@@ -46,3 +46,4 @@
 - 2019-08-11: Review content
 - 2019-07-16: Add detail
 - 2019-09-27: Expand section
+- 2019-05-21: Add note
