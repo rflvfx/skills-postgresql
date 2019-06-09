@@ -49,3 +49,4 @@
 - 2019-05-21: Add note
 - 2019-11-21: Polish docs
 - 2019-08-02: Add note
+- 2019-06-09: Expand section
