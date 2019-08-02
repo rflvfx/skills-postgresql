@@ -223,3 +223,4 @@
 - 2019-09-15: Update notes
 - 2019-05-19: Expand section
 - 2019-07-05: Review content
+- 2019-08-02: Fix example
