@@ -45,3 +45,4 @@
 - 2019-03-23: Small fix
 - 2019-08-11: Review content
 - 2019-07-16: Add detail
+- 2019-09-27: Expand section
