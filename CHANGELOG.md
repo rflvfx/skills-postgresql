@@ -10,3 +10,4 @@
 - 2018-02-08: Refine connection pooling guide
 - 2018-11-06: Add jsonb indexing examples
 - 2019-02-01: Improve cte patterns coverage
+- 2019-11-05: Improve wal archiving coverage
