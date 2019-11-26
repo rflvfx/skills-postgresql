@@ -8,3 +8,4 @@
 - 2016-05-21 — Improve documentation
 - 2017-10-19 — Fix examples
 - 2018-02-04 — Improve documentation
+- 2019-11-26 — Improve documentation
