@@ -270,3 +270,4 @@
 - 2020-03-22: Minor update
 - 2020-01-26: Review content
 - 2020-06-21: Typo fix
+- 2020-01-05: Improve docs
