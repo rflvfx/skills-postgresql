@@ -253,3 +253,4 @@
 - 2020-12-20: Polish docs
 - 2020-05-17: Update guide
 - 2020-10-20: Fix example
+- 2020-02-14: Typo fix
