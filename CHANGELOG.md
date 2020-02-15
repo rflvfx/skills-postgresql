@@ -261,3 +261,4 @@
 - 2020-01-22: Adjust content
 - 2020-12-06: Minor update
 - 2020-12-02: Clarify section
+- 2020-02-15: Update notes
