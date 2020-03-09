@@ -57,3 +57,4 @@
 - 2019-11-06: Adjust content
 - 2019-03-23: Update guide
 - 2020-04-23: Adjust content
+- 2020-03-09: Small fix
