@@ -249,3 +249,4 @@
 - 2020-07-24: Adjust content
 - 2020-07-26: Fix example
 - 2020-03-01: Review content
+- 2020-04-04: Add note
