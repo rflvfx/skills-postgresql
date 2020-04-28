@@ -281,3 +281,4 @@
 - 2020-11-25: Adjust content
 - 2020-12-18: Typo fix
 - 2020-08-25: Polish docs
+- 2020-04-28: Add detail
