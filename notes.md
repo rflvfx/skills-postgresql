@@ -59,3 +59,4 @@
 - 2020-04-23: Adjust content
 - 2020-03-09: Small fix
 - 2020-04-01: Expand section
+- 2020-05-08: Clarify section
