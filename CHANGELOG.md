@@ -290,3 +290,4 @@
 - 2020-06-08: Typo fix
 - 2020-11-20: Expand section
 - 2020-12-24: Small fix
+- 2020-05-14: Polish docs
