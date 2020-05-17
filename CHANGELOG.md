@@ -251,3 +251,4 @@
 - 2020-03-01: Review content
 - 2020-04-04: Add note
 - 2020-12-20: Polish docs
+- 2020-05-17: Update guide
