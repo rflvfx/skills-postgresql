@@ -273,3 +273,4 @@
 - 2020-01-05: Improve docs
 - 2020-11-03: Polish docs
 - 2020-02-10: Update notes
+- 2020-08-03: Improve docs
