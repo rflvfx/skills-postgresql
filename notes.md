@@ -64,3 +64,4 @@
 - 2020-05-05: Add remark
 - 2020-09-01: Update guide
 - 2020-07-07: Update guide
+- 2020-08-27: Update guide
