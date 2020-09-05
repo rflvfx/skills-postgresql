@@ -277,3 +277,4 @@
 - 2020-02-15: Adjust content
 - 2020-01-13: Improve docs
 - 2020-09-06: Update notes
+- 2020-09-05: Typo fix
