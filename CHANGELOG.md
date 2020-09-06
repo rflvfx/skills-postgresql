@@ -276,3 +276,4 @@
 - 2020-08-03: Improve docs
 - 2020-02-15: Adjust content
 - 2020-01-13: Improve docs
+- 2020-09-06: Update notes
