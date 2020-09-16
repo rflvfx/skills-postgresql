@@ -255,3 +255,4 @@
 - 2020-10-20: Fix example
 - 2020-02-14: Typo fix
 - 2020-09-23: Add remark
+- 2020-09-16: Minor update
