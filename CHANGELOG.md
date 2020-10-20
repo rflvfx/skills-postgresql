@@ -252,3 +252,4 @@
 - 2020-04-04: Add note
 - 2020-12-20: Polish docs
 - 2020-05-17: Update guide
+- 2020-10-20: Fix example
