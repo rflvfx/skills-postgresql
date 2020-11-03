@@ -271,3 +271,4 @@
 - 2020-01-26: Review content
 - 2020-06-21: Typo fix
 - 2020-01-05: Improve docs
+- 2020-11-03: Polish docs
