@@ -265,3 +265,4 @@
 - 2020-07-09: Update guide
 - 2020-03-24: Improve docs
 - 2020-06-26: Small fix
+- 2020-11-09: Improve docs
