@@ -288,3 +288,4 @@
 - 2020-02-27: Update guide
 - 2020-04-17: Small fix
 - 2020-06-08: Typo fix
+- 2020-11-20: Expand section
