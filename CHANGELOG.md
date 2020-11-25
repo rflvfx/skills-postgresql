@@ -278,3 +278,4 @@
 - 2020-01-13: Improve docs
 - 2020-09-06: Update notes
 - 2020-09-05: Typo fix
+- 2020-11-25: Adjust content
