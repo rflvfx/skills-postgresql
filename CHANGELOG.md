@@ -260,3 +260,4 @@
 - 2020-04-07: Improve docs
 - 2020-01-22: Adjust content
 - 2020-12-06: Minor update
+- 2020-12-02: Clarify section
