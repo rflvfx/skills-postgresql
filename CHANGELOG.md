@@ -259,3 +259,4 @@
 - 2020-12-01: Review content
 - 2020-04-07: Improve docs
 - 2020-01-22: Adjust content
+- 2020-12-06: Minor update
