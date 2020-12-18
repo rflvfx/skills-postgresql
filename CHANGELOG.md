@@ -279,3 +279,4 @@
 - 2020-09-06: Update notes
 - 2020-09-05: Typo fix
 - 2020-11-25: Adjust content
+- 2020-12-18: Typo fix
