@@ -292,3 +292,4 @@
 - 2020-12-24: Small fix
 - 2020-05-14: Polish docs
 - 2020-06-18: Adjust content
+- 2021-01-04: Add detail
