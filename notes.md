@@ -78,3 +78,4 @@
 - 2021-01-10: Add detail
 - 2021-01-19: Improve docs
 - 2021-11-19: Fix example
+- 2021-01-10: Minor update
