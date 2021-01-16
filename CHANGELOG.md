@@ -298,3 +298,4 @@
 - 2021-04-14: Review content
 - 2021-03-03: Add remark
 - 2021-01-23: Polish docs
+- 2021-01-16: Clarify section
