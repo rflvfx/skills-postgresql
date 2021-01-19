@@ -76,3 +76,4 @@
 - 2021-08-13: Clarify section
 - 2021-12-24: Polish docs
 - 2021-01-10: Add detail
+- 2021-01-19: Improve docs
