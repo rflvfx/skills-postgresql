@@ -66,3 +66,4 @@
 - 2020-07-07: Update guide
 - 2020-08-27: Update guide
 - 2021-06-27: Improve docs
+- 2021-03-10: Add detail
