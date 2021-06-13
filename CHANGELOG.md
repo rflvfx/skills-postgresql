@@ -294,3 +294,4 @@
 - 2020-06-18: Adjust content
 - 2021-01-04: Add detail
 - 2021-11-21: Small fix
+- 2021-06-13: Update notes
