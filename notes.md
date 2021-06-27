@@ -65,3 +65,4 @@
 - 2020-09-01: Update guide
 - 2020-07-07: Update guide
 - 2020-08-27: Update guide
+- 2021-06-27: Improve docs
