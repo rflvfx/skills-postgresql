@@ -326,3 +326,4 @@
 - 2021-09-16: Polish docs
 - 2021-09-27: Polish docs
 - 2021-01-04: Add remark
+- 2021-07-02: Add note
