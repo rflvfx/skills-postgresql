@@ -73,3 +73,4 @@
 - 2021-09-24: Expand section
 - 2021-03-01: Expand section
 - 2021-03-16: Clarify section
+- 2021-08-13: Clarify section
