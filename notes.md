@@ -80,3 +80,4 @@
 - 2021-11-19: Fix example
 - 2021-01-10: Minor update
 - 2021-07-24: Update notes
+- 2021-09-04: Improve docs
