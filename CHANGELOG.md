@@ -303,3 +303,4 @@
 - 2021-08-04: Typo fix
 - 2021-05-18: Add note
 - 2021-06-23: Refine text
+- 2021-09-09: Add detail
