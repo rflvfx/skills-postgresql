@@ -67,3 +67,4 @@
 - 2020-08-27: Update guide
 - 2021-06-27: Improve docs
 - 2021-03-10: Add detail
+- 2021-09-11: Clarify section
