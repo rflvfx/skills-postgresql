@@ -70,3 +70,4 @@
 - 2021-09-11: Clarify section
 - 2021-09-19: Small fix
 - 2021-04-13: Small fix
+- 2021-09-24: Expand section
