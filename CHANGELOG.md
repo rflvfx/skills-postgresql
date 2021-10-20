@@ -13,3 +13,4 @@
 - 2019-11-05: Improve wal archiving coverage
 - 2020-10-22: Document partitioned tables
 - 2020-11-24: Update pg_stat analysis reference
+- 2021-10-20: Refine upsert patterns guide
