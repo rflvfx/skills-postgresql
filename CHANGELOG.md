@@ -14,3 +14,4 @@
 - 2020-10-22: Document partitioned tables
 - 2020-11-24: Update pg_stat analysis reference
 - 2021-10-20: Refine upsert patterns guide
+- 2021-11-05: Update array columns reference
