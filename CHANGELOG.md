@@ -15,3 +15,5 @@
 - 2020-11-24: Update pg_stat analysis reference
 - 2021-10-20: Refine upsert patterns guide
 - 2021-11-05: Update array columns reference
+- 2019-06-12: Add cte patterns notes
+- 2021-11-05: Review full text search section
