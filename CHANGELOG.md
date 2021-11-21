@@ -312,3 +312,4 @@
 - 2021-02-19: Improve docs
 - 2021-01-08: Review content
 - 2021-11-28: Add note
+- 2021-11-21: Clarify section
