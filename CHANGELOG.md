@@ -322,3 +322,4 @@
 - 2021-04-07: Adjust content
 - 2021-03-21: Update guide
 - 2021-01-04: Add remark
+- 2021-12-18: Expand section
