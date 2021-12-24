@@ -74,3 +74,4 @@
 - 2021-03-01: Expand section
 - 2021-03-16: Clarify section
 - 2021-08-13: Clarify section
+- 2021-12-24: Polish docs
