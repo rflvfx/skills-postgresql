@@ -335,3 +335,4 @@
 - 2022-09-04: Typo fix
 - 2022-01-16: Minor update
 - 2022-06-13: Add remark
+- 2022-01-02: Typo fix
