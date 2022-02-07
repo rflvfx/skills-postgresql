@@ -362,3 +362,4 @@
 - 2022-07-07: Expand section
 - 2022-12-19: Small fix
 - 2022-09-07: Minor update
+- 2022-02-07: Clarify section
