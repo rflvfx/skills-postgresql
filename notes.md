@@ -90,3 +90,4 @@
 - 2022-09-25: Polish docs
 - 2022-03-11: Update notes
 - 2022-07-08: Update guide
+- 2022-02-21: Minor update
