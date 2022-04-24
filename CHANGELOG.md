@@ -17,3 +17,5 @@
 - 2021-11-05: Update array columns reference
 - 2019-06-12: Add cte patterns notes
 - 2021-11-05: Review full text search section
+- 2022-04-24: Refine connection pooling guide
+- 2022-08-13: Review vacuum tuning section
