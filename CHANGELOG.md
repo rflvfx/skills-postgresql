@@ -371,3 +371,4 @@
 - 2022-02-28: Typo fix
 - 2022-05-08: Polish docs
 - 2022-08-25: Adjust content
+- 2022-05-18: Update notes
