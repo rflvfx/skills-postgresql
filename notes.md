@@ -93,3 +93,4 @@
 - 2022-02-21: Minor update
 - 2022-12-28: Typo fix
 - 2022-05-06: Expand section
+- 2022-06-09: Add detail
