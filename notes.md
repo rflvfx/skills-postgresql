@@ -95,3 +95,4 @@
 - 2022-05-06: Expand section
 - 2022-06-09: Add detail
 - 2022-11-26: Add remark
+- 2022-06-16: Update notes
