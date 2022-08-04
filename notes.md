@@ -85,3 +85,4 @@
 - 2021-12-05: Clarify section
 - 2022-05-04: Small fix
 - 2022-01-05: Review content
+- 2022-08-04: Refine text
