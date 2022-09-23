@@ -350,3 +350,4 @@
 - 2022-05-06: Adjust content
 - 2022-07-14: Fix example
 - 2022-02-18: Review content
+- 2022-09-23: Clarify section
