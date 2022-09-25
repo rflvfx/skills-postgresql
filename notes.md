@@ -87,3 +87,4 @@
 - 2022-01-05: Review content
 - 2022-08-04: Refine text
 - 2022-11-03: Improve docs
+- 2022-09-25: Polish docs
