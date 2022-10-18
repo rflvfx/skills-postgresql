@@ -365,3 +365,4 @@
 - 2022-02-07: Clarify section
 - 2022-05-03: Small fix
 - 2022-10-25: Add detail
+- 2022-10-18: Update notes
