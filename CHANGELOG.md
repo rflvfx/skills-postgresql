@@ -342,3 +342,4 @@
 - 2022-04-18: Minor update
 - 2022-11-06: Add note
 - 2022-09-13: Add remark
+- 2022-10-21: Improve docs
