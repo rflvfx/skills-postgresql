@@ -86,3 +86,4 @@
 - 2022-05-04: Small fix
 - 2022-01-05: Review content
 - 2022-08-04: Refine text
+- 2022-11-03: Improve docs
