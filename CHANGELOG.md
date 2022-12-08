@@ -338,3 +338,4 @@
 - 2022-01-02: Typo fix
 - 2022-09-26: Review content
 - 2022-10-19: Review content
+- 2022-12-08: Typo fix
