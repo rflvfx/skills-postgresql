@@ -345,3 +345,4 @@
 - 2022-10-21: Improve docs
 - 2022-12-24: Add note
 - 2022-11-05: Review content
+- 2022-12-22: Update guide
