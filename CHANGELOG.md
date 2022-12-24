@@ -352,3 +352,4 @@
 - 2022-02-18: Review content
 - 2022-09-23: Clarify section
 - 2022-10-05: Add detail
+- 2022-12-24: Small fix
