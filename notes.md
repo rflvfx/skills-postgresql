@@ -91,3 +91,4 @@
 - 2022-03-11: Update notes
 - 2022-07-08: Update guide
 - 2022-02-21: Minor update
+- 2022-12-28: Typo fix
