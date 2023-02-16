@@ -103,3 +103,4 @@
 - 2023-07-21: Add detail
 - 2023-03-15: Fix example
 - 2023-03-15: Small fix
+- 2023-02-16: Improve docs
