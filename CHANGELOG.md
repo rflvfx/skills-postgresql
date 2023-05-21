@@ -383,3 +383,4 @@
 - 2023-06-20: Refine text
 - 2023-02-26: Refine text
 - 2023-10-24: Typo fix
+- 2023-05-21: Clarify section
