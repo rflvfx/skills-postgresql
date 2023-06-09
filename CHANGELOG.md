@@ -386,3 +386,4 @@
 - 2023-05-21: Clarify section
 - 2023-04-01: Add note
 - 2023-01-14: Minor update
+- 2023-06-09: Update notes
