@@ -110,3 +110,4 @@
 - 2023-05-15: Minor update
 - 2023-02-20: Polish docs
 - 2023-01-16: Add note
+- 2023-07-15: Adjust content
