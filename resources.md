@@ -1,2 +1,3 @@
 - 2016-01-01: Add code snippet (skills-postgresql)
 - 2018-03-11: Review and cleanup (skills-postgresql)
+- 2023-07-19: Add code snippet (skills-postgresql)
