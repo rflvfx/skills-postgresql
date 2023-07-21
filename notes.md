@@ -100,3 +100,4 @@
 - 2023-03-05: Add note
 - 2023-03-13: Typo fix
 - 2023-01-27: Adjust content
+- 2023-07-21: Add detail
