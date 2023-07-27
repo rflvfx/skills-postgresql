@@ -379,3 +379,4 @@
 - 2023-06-05: Improve docs
 - 2023-04-03: Add remark
 - 2023-06-11: Review content
+- 2023-07-27: Polish docs
