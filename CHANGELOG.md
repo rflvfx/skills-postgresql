@@ -406,3 +406,4 @@
 - 2023-02-09: Add remark
 - 2023-11-21: Improve docs
 - 2023-08-08: Minor update
+- 2023-09-02: Update guide
