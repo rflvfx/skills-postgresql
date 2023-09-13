@@ -391,3 +391,4 @@
 - 2023-10-20: Review content
 - 2023-05-21: Minor update
 - 2023-09-20: Add detail
+- 2023-09-13: Update notes
