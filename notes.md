@@ -105,3 +105,4 @@
 - 2023-03-15: Small fix
 - 2023-02-16: Improve docs
 - 2023-07-27: Add detail
+- 2023-09-24: Typo fix
