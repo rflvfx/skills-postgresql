@@ -22,3 +22,4 @@
 - 2022-05-25: Expand foreign data wrappers docs
 - 2023-06-20: Add row level security notes
 - 2023-09-01: Review partitioned tables section
+- 2023-10-01: Expand window functions docs
