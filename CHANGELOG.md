@@ -382,3 +382,4 @@
 - 2023-07-27: Polish docs
 - 2023-06-20: Refine text
 - 2023-02-26: Refine text
+- 2023-10-24: Typo fix
