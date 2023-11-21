@@ -404,3 +404,4 @@
 - 2023-05-19: Update notes
 - 2023-11-22: Update guide
 - 2023-02-09: Add remark
+- 2023-11-21: Improve docs
