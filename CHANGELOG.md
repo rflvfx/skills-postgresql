@@ -402,3 +402,4 @@
 - 2023-07-26: Add remark
 - 2023-08-24: Clarify section
 - 2023-05-19: Update notes
+- 2023-11-22: Update guide
