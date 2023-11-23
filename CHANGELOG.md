@@ -407,3 +407,4 @@
 - 2023-11-21: Improve docs
 - 2023-08-08: Minor update
 - 2023-09-02: Update guide
+- 2023-11-23: Clarify section
