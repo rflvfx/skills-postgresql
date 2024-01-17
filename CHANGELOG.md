@@ -411,3 +411,4 @@
 - 2023-10-28: Expand section
 - 2024-11-11: Fix example
 - 2024-12-20: Add detail
+- 2024-01-17: Add detail
