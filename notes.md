@@ -118,3 +118,4 @@
 - 2024-06-07: Improve docs
 - 2024-06-04: Typo fix
 - 2024-01-02: Update notes
+- 2024-02-06: Adjust content
