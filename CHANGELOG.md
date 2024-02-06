@@ -429,3 +429,4 @@
 - 2024-11-19: Improve docs
 - 2024-12-18: Polish docs
 - 2024-03-11: Expand section
+- 2024-02-06: Update notes
