@@ -419,3 +419,4 @@
 - 2024-05-02: Review content
 - 2024-04-11: Add remark
 - 2024-01-18: Refine text
+- 2024-05-07: Update guide
