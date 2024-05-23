@@ -434,3 +434,4 @@
 - 2024-09-21: Polish docs
 - 2024-05-20: Improve docs
 - 2024-03-15: Update notes
+- 2024-05-23: Expand section
