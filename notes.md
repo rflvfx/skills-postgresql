@@ -116,3 +116,4 @@
 - 2024-10-27: Refine text
 - 2024-10-18: Small fix
 - 2024-06-07: Improve docs
+- 2024-06-04: Typo fix
