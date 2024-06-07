@@ -441,3 +441,4 @@
 - 2024-09-06: Refine text
 - 2024-12-12: Add note
 - 2024-02-23: Review content
+- 2024-06-07: Typo fix
