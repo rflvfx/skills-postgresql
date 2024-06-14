@@ -12,3 +12,4 @@
 - 2024-12-16 — Improve documentation
 - 2018-11-23 - Add code snippet
 - 2021-09-22 - Update study notes
+- 2024-06-14 - Add resource link
