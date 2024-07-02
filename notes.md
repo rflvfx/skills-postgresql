@@ -120,3 +120,4 @@
 - 2024-01-02: Update notes
 - 2024-02-06: Adjust content
 - 2024-12-04: Update notes
+- 2024-07-02: Improve docs
