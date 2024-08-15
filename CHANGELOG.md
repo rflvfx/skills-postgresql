@@ -437,3 +437,4 @@
 - 2024-05-23: Expand section
 - 2024-11-03: Small fix
 - 2024-11-19: Add remark
+- 2024-08-15: Add note
