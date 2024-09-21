@@ -431,3 +431,4 @@
 - 2024-03-11: Expand section
 - 2024-02-06: Update notes
 - 2024-12-10: Fix example
+- 2024-09-21: Polish docs
