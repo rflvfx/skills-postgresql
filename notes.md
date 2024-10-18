@@ -114,3 +114,4 @@
 - 2023-09-10: Update guide
 - 2024-10-27: Polish docs
 - 2024-10-27: Refine text
+- 2024-10-18: Small fix
