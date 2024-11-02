@@ -446,3 +446,4 @@
 - 2024-06-02: Update guide
 - 2024-06-20: Add remark
 - 2024-11-27: Add remark
+- 2024-11-02: Minor update
