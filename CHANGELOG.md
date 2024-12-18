@@ -427,3 +427,4 @@
 - 2024-04-01: Refine text
 - 2024-12-15: Refine text
 - 2024-11-19: Improve docs
+- 2024-12-18: Polish docs
