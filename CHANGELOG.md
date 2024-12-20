@@ -410,3 +410,4 @@
 - 2023-11-23: Clarify section
 - 2023-10-28: Expand section
 - 2024-11-11: Fix example
+- 2024-12-20: Add detail
