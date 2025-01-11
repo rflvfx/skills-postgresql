@@ -458,3 +458,4 @@
 - 2025-09-22: Expand section
 - 2025-10-16: Polish docs
 - 2025-01-02: Small fix
+- 2025-01-11: Update guide
