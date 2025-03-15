@@ -132,3 +132,4 @@
 - 2025-07-08: Small fix
 - 2025-08-25: Expand section
 - 2025-08-13: Refine text
+- 2025-03-15: Polish docs
