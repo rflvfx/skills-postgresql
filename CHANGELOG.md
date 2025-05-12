@@ -485,3 +485,4 @@
 - 2025-01-22: Improve docs
 - 2025-03-22: Minor update
 - 2025-05-19: Minor update
+- 2025-05-12: Update notes
