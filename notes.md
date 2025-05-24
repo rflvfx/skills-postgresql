@@ -123,3 +123,4 @@
 - 2024-07-02: Improve docs
 - 2024-04-14: Add remark
 - 2025-05-17: Add note
+- 2025-05-24: Small fix
