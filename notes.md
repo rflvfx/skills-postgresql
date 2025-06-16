@@ -133,3 +133,4 @@
 - 2025-08-25: Expand section
 - 2025-08-13: Refine text
 - 2025-03-15: Polish docs
+- 2025-06-16: Adjust content
