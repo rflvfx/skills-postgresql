@@ -25,3 +25,5 @@
 - 2023-10-01: Expand window functions docs
 - 2023-12-07: Add wal archiving notes
 - 2024-03-26: Document row level security
+- 2025-07-08: Improve array columns coverage
+- 2024-12-17: Document pg_stat analysis
