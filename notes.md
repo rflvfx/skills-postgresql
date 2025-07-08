@@ -129,3 +129,4 @@
 - 2025-08-05: Update guide
 - 2025-12-21: Add detail
 - 2025-10-10: Add note
+- 2025-07-08: Small fix
