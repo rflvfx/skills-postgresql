@@ -27,3 +27,4 @@
 - 2024-03-26: Document row level security
 - 2025-07-08: Improve array columns coverage
 - 2024-12-17: Document pg_stat analysis
+- 2025-12-25: Document listen notify
