@@ -134,3 +134,4 @@
 - 2025-08-13: Refine text
 - 2025-03-15: Polish docs
 - 2025-06-16: Adjust content
+- 2025-07-19: Add note
