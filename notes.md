@@ -126,3 +126,4 @@
 - 2025-05-24: Small fix
 - 2025-10-28: Add detail
 - 2025-02-09: Update guide
+- 2025-08-05: Update guide
