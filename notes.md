@@ -131,3 +131,4 @@
 - 2025-10-10: Add note
 - 2025-07-08: Small fix
 - 2025-08-25: Expand section
+- 2025-08-13: Refine text
