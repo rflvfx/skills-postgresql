@@ -488,3 +488,4 @@
 - 2025-05-12: Update notes
 - 2025-11-05: Small fix
 - 2025-12-13: Add detail
+- 2025-08-17: Update notes
