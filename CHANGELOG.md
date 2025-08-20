@@ -468,3 +468,4 @@
 - 2025-12-08: Adjust content
 - 2025-04-05: Minor update
 - 2025-08-05: Improve docs
+- 2025-08-20: Expand section
