@@ -476,3 +476,4 @@
 - 2025-03-14: Adjust content
 - 2025-01-18: Polish docs
 - 2025-06-23: Typo fix
+- 2025-09-25: Adjust content
