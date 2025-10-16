@@ -472,3 +472,4 @@
 - 2025-03-10: Refine text
 - 2025-10-05: Fix example
 - 2025-03-11: Improve docs
+- 2025-10-16: Update guide
