@@ -456,3 +456,4 @@
 - 2024-04-17: Fix example
 - 2024-04-17: Small fix
 - 2025-09-22: Expand section
+- 2025-10-16: Polish docs
