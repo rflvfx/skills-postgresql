@@ -29,3 +29,5 @@
 - 2024-12-17: Document pg_stat analysis
 - 2025-12-25: Document listen notify
 - 2025-07-22: Document array columns
+- 2025-10-26: Update full text search reference
+- 2026-08-21: Add foreign data wrappers examples
