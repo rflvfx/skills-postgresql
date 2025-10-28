@@ -124,3 +124,4 @@
 - 2024-04-14: Add remark
 - 2025-05-17: Add note
 - 2025-05-24: Small fix
+- 2025-10-28: Add detail
