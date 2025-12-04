@@ -460,3 +460,4 @@
 - 2025-01-02: Small fix
 - 2025-01-11: Update guide
 - 2025-05-04: Update guide
+- 2025-12-04: Fix example
