@@ -465,3 +465,4 @@
 - 2025-04-12: Improve docs
 - 2025-11-02: Update notes
 - 2025-11-24: Add remark
+- 2025-12-08: Adjust content
