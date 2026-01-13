@@ -32,3 +32,4 @@
 - 2025-10-26: Update full text search reference
 - 2026-08-21: Add foreign data wrappers examples
 - 2026-10-14: Update jsonb indexing reference
+- 2026-01-13: Improve listen notify coverage
