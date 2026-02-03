@@ -528,3 +528,4 @@
 - 2026-05-07: Small fix
 - 2026-12-18: Review content
 - 2026-03-28: Typo fix
+- 2026-02-03: Add detail
