@@ -501,3 +501,4 @@
 - 2026-11-23: Add note
 - 2026-01-04: Clarify section
 - 2026-02-16: Expand section
+- 2026-02-09: Typo fix
