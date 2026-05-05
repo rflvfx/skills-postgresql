@@ -535,3 +535,4 @@
 - 2026-05-20: Fix example
 - 2026-11-23: Small fix
 - 2026-11-17: Improve docs
+- 2026-05-05: Add remark
