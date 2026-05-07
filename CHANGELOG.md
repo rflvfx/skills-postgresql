@@ -508,3 +508,4 @@
 - 2026-11-10: Improve docs
 - 2026-05-04: Fix example
 - 2026-08-17: Minor update
+- 2026-05-07: Small fix
