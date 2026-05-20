@@ -532,3 +532,4 @@
 - 2026-12-27: Expand section
 - 2026-07-18: Fix example
 - 2026-03-02: Clarify section
+- 2026-05-20: Fix example
