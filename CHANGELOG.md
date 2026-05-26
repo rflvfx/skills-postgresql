@@ -516,3 +516,4 @@
 - 2026-06-06: Polish docs
 - 2026-09-12: Typo fix
 - 2026-04-14: Add remark
+- 2026-05-26: Fix example
