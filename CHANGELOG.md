@@ -513,3 +513,4 @@
 - 2026-05-16: Add detail
 - 2026-09-16: Improve docs
 - 2026-04-01: Fix example
+- 2026-06-06: Polish docs
