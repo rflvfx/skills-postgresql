@@ -138,3 +138,4 @@
 - 2026-09-12: Update guide
 - 2026-08-10: Small fix
 - 2026-07-23: Minor update
+- 2026-07-14: Adjust content
