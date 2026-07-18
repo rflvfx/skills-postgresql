@@ -530,3 +530,4 @@
 - 2026-03-28: Typo fix
 - 2026-02-03: Add detail
 - 2026-12-27: Expand section
+- 2026-07-18: Fix example
