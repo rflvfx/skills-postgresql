@@ -521,3 +521,4 @@
 - 2026-01-02: Review content
 - 2026-09-07: Fix example
 - 2026-07-07: Update guide
+- 2026-07-18: Polish docs
