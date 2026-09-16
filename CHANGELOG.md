@@ -511,3 +511,4 @@
 - 2026-05-07: Small fix
 - 2026-05-14: Polish docs
 - 2026-05-16: Add detail
+- 2026-09-16: Improve docs
