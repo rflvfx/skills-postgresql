@@ -523,3 +523,4 @@
 - 2026-07-07: Update guide
 - 2026-07-18: Polish docs
 - 2026-03-26: Fix example
+- 2026-09-23: Small fix
