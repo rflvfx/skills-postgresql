@@ -536,3 +536,4 @@
 - 2026-11-23: Small fix
 - 2026-11-17: Improve docs
 - 2026-05-05: Add remark
+- 2026-10-02: Minor update
