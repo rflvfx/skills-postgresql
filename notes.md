@@ -145,3 +145,4 @@
 - 2026-08-22: Fix example
 - 2026-08-27: Add remark
 - 2026-10-04: Add note
+- 2026-10-18: Expand section
