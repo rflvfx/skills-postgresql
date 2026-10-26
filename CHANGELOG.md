@@ -33,3 +33,4 @@
 - 2026-08-21: Add foreign data wrappers examples
 - 2026-10-14: Update jsonb indexing reference
 - 2026-01-13: Improve listen notify coverage
+- 2026-10-26: Improve jsonb indexing coverage
