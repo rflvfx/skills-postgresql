@@ -505,3 +505,4 @@
 - 2026-02-16: Fix example
 - 2026-03-13: Fix example
 - 2026-04-15: Update guide
+- 2026-11-10: Improve docs
