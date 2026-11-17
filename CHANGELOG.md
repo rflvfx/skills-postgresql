@@ -534,3 +534,4 @@
 - 2026-03-02: Clarify section
 - 2026-05-20: Fix example
 - 2026-11-23: Small fix
+- 2026-11-17: Improve docs
