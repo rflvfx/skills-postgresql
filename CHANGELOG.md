@@ -498,3 +498,4 @@
 - 2025-06-14: Review content
 - 2025-02-15: Polish docs
 - 2026-11-14: Expand section
+- 2026-11-23: Add note
